@@ -1,0 +1,1 @@
+# ReYohoho history transfer`n`nStatic, local-only history bridge for https://dav2010id.github.io/reyohoho-history-transfer/. No CNAME: the old origin is required to read its localStorage. Only allowlisted movie fields are sent, after a click, to https://reyhoho.fun. No auth tokens, analytics or third-party scripts. Source: dav2010ID/reyohoho migration/history-transfer/.
